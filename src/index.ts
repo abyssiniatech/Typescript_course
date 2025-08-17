@@ -59,3 +59,11 @@ type userTypes={
 
 
 
+
+
+//  function   in typescript
+function Sayhello(num1:number){
+   return num1*3
+}
+Sayhello("12")
+
