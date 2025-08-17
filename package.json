@@ -4,13 +4,29 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abyssiniatech/Typescript_course.git"
+>>>>>>> 6526cfd5eb00afb5f4548906565ed871767c6b90
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+<<<<<<< HEAD
   "devDependencies": {
     "typescript": "^5.9.2"
   }
+=======
+  "bugs": {
+    "url": "https://github.com/abyssiniatech/Typescript_course/issues"
+  },
+  "homepage": "https://github.com/abyssiniatech/Typescript_course#readme"
+>>>>>>> 6526cfd5eb00afb5f4548906565ed871767c6b90
 }
